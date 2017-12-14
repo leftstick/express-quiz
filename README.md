@@ -16,7 +16,7 @@ express-quiz
 
 你还知道其他哪些功能类似的产品？能否谈谈她们之间的差异？
 
->灵活题目，考察下你的工作经验，知识广度
+>灵活题目，考察下你的工作经验，知识广度
 
 [express.js](http://expressjs.com/)里有个概念叫`中间件`，做什么的？谈谈吧
 
@@ -67,11 +67,11 @@ npm install
 
 ### 第四题
 
-使用`Math.random() * 3`将第三题里的`api`做一个随机但小于`3s`的延迟返回
+使用`Math.random() * 3`将第三题里的`api`做一个随机但小于`3s`的延迟返回
 
 ### 第五题
 
-如何把把静态资源通过web的形式开放给开户端？譬如：`/public/img/`下的图片，如何让客户端使用`http://localhost:port/public/img/showtime.gif`的方式访问到？
+如何把把静态资源通过web的形式开放给开户端？譬如：`/public/img/`下的图片，如何让客户端使用`http://localhost:port/public/img/showtime.gif`的方式访问到？
 
 ### 第六题
 
