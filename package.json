@@ -1,0 +1,21 @@
+{
+  "name": "web-quiz",
+  "version": "1.0.0",
+  "description": "关于express的小测验",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leftstick/node-web-quiz.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leftstick/node-web-quiz/issues"
+  },
+  "homepage": "https://github.com/leftstick/node-web-quiz#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
