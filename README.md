@@ -71,7 +71,7 @@ npm install
 
 ### 第五题
 
-如何把把静态资源通过web的形式开放给开户端？譬如：`/public/img/`下的图片，如何让客户端使用`http://localhost:port/public/img/showtime.gif`的方式访问到？
+如何把把静态资源通过web的形式开放给开户端？譬如：`/public/img/`下的图片，如何让客户端使用`http://localhost:<port>/public/img/showtime.gif`的方式访问到？
 
 ### 第六题
 
